@@ -1,7 +1,5 @@
 # 广西科技大学计算机系课程攻略
 
-[toc]
-
 受[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)以及[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT)启发，创立了本项目。
 
 ## 前言
