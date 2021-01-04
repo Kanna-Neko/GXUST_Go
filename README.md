@@ -16,7 +16,9 @@
 
 我们建议你使用Chrome拓展中的[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)去下载相关文件，当然github的用法有很多，你可以自己选择合适的方式获取自己所需要的文件，形式并不是问题。
 
-当然你可以通过此网站，将你想下载文件对应的网站网址输入进[GitZip 网页版](https://kinolien.github.io/gitzip/)的token输入框中即可下载。
+当然你可以通过此网站，将你想下载文件对应的网站网址输入进[GitZip 网页版](https://kinolien.github.io/gitzip/)中即可下载。
+
+* **我们与此同时也添加了[gitee](https://gitee.com/moonandxinxin/GXUST_Go)的同步库，你可以在gitee中获取所有你在此看到的资源（此方法可以避免被墙）**
 
 ## 贡献
 
