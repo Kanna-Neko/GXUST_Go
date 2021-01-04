@@ -16,6 +16,8 @@
 
 我们建议你使用Chrome拓展中的[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)去下载相关文件，当然github的用法有很多，你可以自己选择合适的方式获取自己所需要的文件，形式并不是问题。
 
+当然你可以通过此网站，将你想下载文件对应的网站网址输入进[GitZip 网页版](https://kinolien.github.io/gitzip/)的token输入框中即可下载。
+
 ## 贡献
 
 此项目欢迎所有人进行贡献！
