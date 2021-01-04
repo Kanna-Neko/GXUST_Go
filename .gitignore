@@ -1,0 +1,13 @@
+.DS_Store*
+Thumbs.db
+__MACOSX
+._*
+.idea
+**/bbs
+_static
+_templates
+*.swp
+*.pyc
+__pycache__
+thu_cst_cracker.egg-info
+
